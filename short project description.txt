@@ -1,0 +1,7 @@
+1.Faced problems while setting the background image in the heading section.
+
+2.Had trouble positioning the images correctly.
+
+3.Encountered issues while adding borders to the fitness section.
+
+4.The technologies I used to complete my project are: HTML, Tailwind CSS, Font Awesome, GitHub.
